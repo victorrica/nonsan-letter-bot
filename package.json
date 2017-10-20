@@ -1,0 +1,19 @@
+{
+  "name": "nonsan_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dateformat": "^3.0.2",
+    "discord.io": "^2.5.2",
+    "fb": "^2.0.0",
+    "slack-node": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
